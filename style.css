@@ -14,11 +14,12 @@ body{
 .title{
     position: relative;
     font-size: 3em;
-    color: #fff;
+    color: #000000;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     animation: animate 5s linear infinite;
     box-shadow: 0 0 10px #fff, 0 0 40px #fff, 0 0 300px #fff;
     padding: 0 20px;
     border-radius: 10px;
+    
 }
